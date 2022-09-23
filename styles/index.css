@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&family=Cinzel+Decorative&family=Josefin+Slab:wght@600&family=Montserrat&family=Passions+Conflict&family=Poiret+One&family=Rubik+Dirt&display=swap');
+h1{
+    font-family: 'Poiret One', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    display: flex;
+    gap: 30Spx;
+    justify-content: center;
+}
+
+body{
+    background-image:
+    linear-gradient(to top #D1B3C4, #B392AC);
+    
+}
