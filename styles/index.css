@@ -17,6 +17,6 @@ img{
 
 body{
     background-image:
-    linear-gradient(to top #D1B3C4, #B392AC);
+    linear-gradient to top #D1B3C4, #B392AC;
     
 }

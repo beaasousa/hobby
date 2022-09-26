@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&family=Cinzel+Decorative&family=Josefin+Slab:wght@600&family=Montserrat&family=Passions+Conflict&family=Poiret+One&family=Rubik+Dirt&display=swap');
 
 h1{
-
+    font-family: 'Cinzel Decorative', cursive;
 }
 
 p{
     font-family: 'Montserrat', sans-serif;
 }
+
+body{
+    background-color: #a4ac86;
+}
+
+#a98467;

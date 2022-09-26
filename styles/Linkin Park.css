@@ -1,13 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&family=Cinzel+Decorative&family=Josefin+Slab:wght@600&family=Montserrat&family=Passions+Conflict&family=Poiret+One&family=Rubik+Dirt&display=swap');
 
 h1{
+    font-family: 'Josefin Slab', serif;
 
 }
 
 h2{
-
+    font-family: 'Josefin Slab', serif;
 }
 
 p{
     font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgba(10, 10, 10, 0.911);
+    color: azure;
 }
