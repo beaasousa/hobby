@@ -3,6 +3,7 @@
 
 h1{
     font-family: 'Rubik Dirt', cursive;
+    font-size: 45px;
 }
 
 h2{
@@ -15,4 +16,11 @@ h3{
 
 p{
     font-family: 'Montserrat', sans-serif;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
 }

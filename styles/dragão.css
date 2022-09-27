@@ -2,10 +2,13 @@
 
 h1{
     font-family: 'Aref Ruqaa Ink', serif;
+    font-size: 60px;
+    text-align: center;
 }
 
 p{
     font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
 }
 
 body{

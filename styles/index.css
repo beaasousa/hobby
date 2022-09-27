@@ -7,16 +7,31 @@ h1{
 
 p{
     font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    position: relative;
 }
 
-img{
+.flex {
     display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.pontinho{
+   font-size: 30px;
+}
+
+.img{
+   
     gap: 30Spx;
     justify-content: center;
+    position:relative;
+    text-align: center;
 }
 
 body{
-    background-image:
-    linear-gradient to top #D1B3C4, #B392AC;
-    
+    background: linear-gradient(to top, #D1B3C4, #B392AC);   
+    flex-direction:column;
+    gap: 500px;
+    margin: 0 auto;
 }
