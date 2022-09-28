@@ -8,11 +8,27 @@ h1{
 
 p{
     font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
+    font-size: 30px;
+}
+
+.p2{
+    text-align: center;
+    font-size: 35px;
 }
 
 body{
     background-color: #a4ac86;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.link{
+    color: #191f05
 }
 
 #a98467;

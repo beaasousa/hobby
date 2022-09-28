@@ -2,18 +2,32 @@
 
 h1{
     font-family: 'Josefin Slab', serif;
-
+    font-size: 60px;
+    text-align: center;
 }
 
 h2{
     font-family: 'Josefin Slab', serif;
+    font-size: 50px;
+    text-align: center;
 }
 
 p{
     font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
 }
 
 body{
     background-color: rgba(10, 10, 10, 0.911);
+    color: rgba(240, 255, 255, 0.945);
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.link{
     color: azure;
 }

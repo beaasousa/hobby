@@ -2,19 +2,41 @@
 
 h1{
     font-family: 'Passions Conflict', cursive;
+    font-size: 80px;
+    text-align: center;
+    color: rgb(25, 6, 46);
 }
 
 h2{
     font-family: 'Passions Conflict', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: rgb(25, 6, 46);
 }
 
 p{
     font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: black;
 }
 
 .perfil{
-    border-radius: 55%;
-    border-width: 8px;
+    border-radius: 60%;
+    border-width: 5px;
     border-style: solid;
-    border-color:blueviolet;
+    border-color:rgb(90, 29, 143);
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+body{
+    background: linear-gradient(to right, #7B2CBF, #C77DFF, #7B2CBF);
+}
+
+.link{
+    color: azure;
 }
